@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1549046708 source:c:\users\raj kumar\desktop\documents\documents\latticeinnovation\main.cpp
+	<iostream>
+	<vector>
+	<stack>
+	<map>
+	<string>
+
